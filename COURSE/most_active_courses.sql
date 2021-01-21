@@ -1,2 +1,2 @@
 SELECT c.fullname coursename
-FROM prefix_course c
+FROM mdl_course c
